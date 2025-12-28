@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "qr-tmoney",
+      "description": "Placeholder QR code for TMoney payment",
+      "imageUrl": "https://images.unsplash.com/photo-1626682561113-d1db402cc866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxRUiUyMGNvZGV8ZW58MHx8fHwxNzY2ODY1MDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "QR code"
+    },
+    {
+      "id": "qr-moov",
+      "description": "Placeholder QR code for Moov payment",
+      "imageUrl": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxRUiUyMGNvZGV8ZW58MHx8fHwxNzY2ODY1MDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "QR code"
+    }
+  ]
 }
