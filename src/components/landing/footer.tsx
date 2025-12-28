@@ -14,7 +14,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6 text-center md:text-left">
           <div>
             <h3 className="text-xl font-bold">Design Edge Academy</h3>
-            <p className="text-sm opacity-80">par AKA'S GROUP 1 & CENTRE 6G</p>
+            <p className="text-sm opacity-80">par AKA'S GROUP & CENTRE 6G</p>
           </div>
           <div className="flex flex-col gap-2">
             <p className="font-semibold">Nos réseaux</p>
