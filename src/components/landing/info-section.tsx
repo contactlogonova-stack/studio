@@ -41,7 +41,7 @@ export function InfoSection() {
     {
       icon: Users,
       title: "Organisateurs",
-      content: "Une collaboration entre AKA'S GROUP et le CENTRE 6G pour vous offrir le meilleur."
+      content: "Une collaboration entre AKA'S GROUP 1 et le CENTRE 6G pour vous offrir le meilleur."
     }
   ];
 
