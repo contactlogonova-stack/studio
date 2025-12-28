@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'Design Edge Academy - Formation en Design Graphique',
+  title: "AKA'S GROUP 1 - Formation en Design Graphique",
   description: "Formation 100% pratique en design graphique sur Adobe Photoshop. Organisée par AKA'S GROUP 1 et le CENTRE 6G.",
 };
 

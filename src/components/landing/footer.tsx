@@ -13,7 +13,7 @@ export function Footer() {
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6 text-center md:text-left">
           <div>
-            <h3 className="text-xl font-bold">Design Edge Academy</h3>
+            <h3 className="text-xl font-bold">AKA'S GROUP 1</h3>
             <p className="text-sm opacity-80">par AKA'S GROUP 1 & CENTRE 6G</p>
           </div>
           <div className="flex flex-col gap-2">
@@ -38,7 +38,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-primary-foreground/20 pt-4 text-center text-xs opacity-70">
-          <p>&copy; {new Date().getFullYear()} Design Edge Academy. Tous droits réservés.</p>
+          <p>&copy; {new Date().getFullYear()} AKA'S GROUP 1. Tous droits réservés.</p>
         </div>
       </div>
     </footer>
